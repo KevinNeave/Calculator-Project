@@ -8,7 +8,7 @@ char menu(void){
     printf("Select one of the following options: \n");
     printf("B) - Binary operations, such as addition and subtraction. \n");
     printf("U) - Unary operations, such as square root and log. \n");
-    printf("A) - Advanced operations, using variables and arrays. \n");
+    printf("A) - Advanced operations, using variables. \n");
     printf("V) - Define variables and assign them values. \n");
     printf("E) - Exit \n");
     scanf(" %c", &option);
